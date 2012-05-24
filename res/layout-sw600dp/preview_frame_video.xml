@@ -49,4 +49,5 @@
                 android:visibility="gone"
                 android:onClick="onReviewPlayClicked" />
     </com.android.camera.PreviewFrameLayout>
+    <include layout="@layout/indicator_bar" />
 </RelativeLayout>

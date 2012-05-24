@@ -36,4 +36,5 @@
         <include layout="@layout/focus_indicator"/>
         <include layout="@layout/priority_indicators"/>
     </com.android.camera.PreviewFrameLayout>
+    <include layout="@layout/indicator_bar" />
 </RelativeLayout>
