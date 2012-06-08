@@ -224,7 +224,7 @@ public class FocusManager {
                 // so the state is always STATE_FOCUSING.
                 if (!Parameters.FOCUS_MODE_CONTINUOUS_PICTURE.
                         equals(mFocusMode)) {
-                    mListener.playSound(CameraSound.FOCUS_COMPLETE);
+                    //mListener.playSound(CameraSound.FOCUS_COMPLETE);
                 }
             } else {
                 mState = STATE_FAIL;
